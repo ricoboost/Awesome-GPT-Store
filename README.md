@@ -27,6 +27,7 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 - [Prompt Perfector](https://chat.openai.com/g/g-jeCEGsoNZ-prompt-perfector) - AI Expert in Refining and Perfecting Prompts
 - [PromptGPT](https://chat.openai.com/g/g-p0jlP3Tcq-promptgpt) - AI assistant for refining user prompts to maximize GPT-4 interaction.
 - [URL Shortner](https://chat.openai.com/g/g-FmVxPJH0E-url-shortner) - Shortens long URLs to more manageable links.
+- [PromptArchitect](https://chat.openai.com/g/g-BQIpAwfnb-prompt-architect) - I turn your ideas into effective GPT prompts
 
 ## Writing and Content Creation
 - [AnalyzePaper](https://chat.openai.com/g/g-WIlexDAW5-analyzepaper) - Writing assistant for academic and professional needs.
